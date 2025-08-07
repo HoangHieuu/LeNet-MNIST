@@ -12,6 +12,9 @@ A simple web app that uses a trained LeNet-5 model to recognize handwritten digi
 - Run a built-in example image with one click  
 
 ---
+## 📷 UI Preview
+
+![Streamlit App UI](UI_screenshot.jpg)
 
 ## Repository Structure
 ├── lenet_model.pt      
